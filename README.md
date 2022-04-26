@@ -1,4 +1,0 @@
-# MaratonaDeProgramacao
-Challenges Of programming
-
-
